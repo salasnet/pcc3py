@@ -2,13 +2,14 @@
 bicycles = ['trek', 'cannondale', 'redline', 'specialized']
 print(bicycles)
 
+### Accessing Elements in a List
 # access the first element in the list
 print(bicycles[0])
 
-# use a string method to capitalize the first letter of the first element
+# you can use a string method to capitalize the first letter of the first element
 print(bicycles[0].title())
 
-# the index starts at 0, not 1
+# index positions start at 0, not 1
 print(bicycles[1])
 print(bicycles[3])
 
@@ -19,6 +20,6 @@ print(bicycles[-1])
 # to access the second to last element in the list, use -2
 print(bicycles[-2])
 
-# use individual values from a list
+### Using Individual Values from a List
 message = f"My first bicycle was a {bicycles[0].title()}."
 print(message)
