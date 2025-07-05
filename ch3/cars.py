@@ -8,6 +8,7 @@ cars = ['bmw', 'audi', 'toyota', 'subaru']
 cars.sort(reverse=True)
 print(cars)
 
+################################################################################
 print("---------") # seperator
 
 # Sorting a List Temporarily with the sorted() Function
@@ -22,6 +23,7 @@ print(sorted(cars))
 print("\nHere is the original list again:")
 print(cars)
 
+################################################################################
 print("---------") # seperator
 
 # Printing a List in Reverse Order
@@ -31,6 +33,7 @@ print(cars)
 cars.reverse()
 print(cars)
 
+################################################################################
 print("---------") # seperator
 
 # Finding the Length of a List

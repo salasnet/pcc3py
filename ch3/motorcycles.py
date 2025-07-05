@@ -7,7 +7,7 @@ print(motorcycles)
 
 print() # blank line
 
-# ---------------------------------------------------------
+################################################################################
 # appending elements to a list
 motorcycles = ['honda', 'yamaha', 'suzuki']
 print(motorcycles)
@@ -16,7 +16,7 @@ print(motorcycles)
 
 print() # blank line
 
-# ---------------------------------------------------------
+################################################################################
 # starting with an empty list
 motorcycles = []
 motorcycles.append('honda')
@@ -25,7 +25,7 @@ motorcycles.append('suzuki')
 print(motorcycles)
 
 print() # blank line
-# ---------------------------------------------------------
+################################################################################
 # inserting elements into a list
 motorcycles = ['honda', 'yamaha', 'suzuki']
 print(motorcycles)
@@ -33,7 +33,7 @@ motorcycles.insert(0, 'ducati')
 print(motorcycles)
 
 print() # blank line
-# ---------------------------------------------------------
+################################################################################
 # removing elements from a list using their index
 motorcycles = ['honda', 'yamaha', 'suzuki']
 del motorcycles[0]
@@ -45,7 +45,7 @@ print(motorcycles)
 
 print() # blank line
 
-# ---------------------------------------------------------
+################################################################################
 # removing an item using the pop() method
 motorcycles = ['honda', 'yamaha', 'suzuki']
 print(motorcycles)
@@ -62,7 +62,7 @@ print(f"The first motorcycle I owned was a {first_owned.title()}.")
 
 print() # blank line
 
-# ---------------------------------------------------------
+################################################################################
 # removing an item by value
 motorcycles = ['honda', 'yamaha', 'suzuki', 'ducati']
 print(motorcycles)
