@@ -2,7 +2,7 @@
 
 # Write code that will print a multiplication table from 1 to 10 for the numbers 2-9.
 # Your output should look like this:
- 
+
 # Multiplication Table for 2:
 # 2 x 1 = 2
 # 2 x 2 = 4
