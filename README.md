@@ -2,7 +2,13 @@
 
 PINE Python Crash Course Code, .py edition
 
-### LINKS
+### Python Crash Course
+[Python Crash Course-nostarch press](https://nostarch.com/python-crash-course-3rd-edition)
+
+### Python Crash Course 3ed
+[Python Crash Course-ehmatthes](https://ehmatthes.github.io/pcc_3e/)
+
+### MARKDOWN
 
 [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 
@@ -10,8 +16,3 @@ PINE Python Crash Course Code, .py edition
 
 [Markdown Formatting](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
 
-### Python Crash Course
-[Python Crash Course-nostarch press](https://nostarch.com/python-crash-course-3rd-edition)
-
-### Python Crash Course 3ed
-[Python Crash Course-ehmatthes](https://ehmatthes.github.io/pcc_3e/)
