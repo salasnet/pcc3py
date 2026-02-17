@@ -26,8 +26,8 @@ print(f"Mr. {guests[0].title()}, {dinnermsg}")
 print(f"Mr. {guests[1].title()}, {dinnermsg}")
 print(f"Mr. {guests[2].title()}, {dinnermsg}")
 
-################################################################################
-print()
+print()  # blankline
+#==============================================================================#
 # inform the guests that we now have a bigger table
 print("Good news! We have found a bigger table for dinner and will be adding additional guests.")
 
@@ -49,10 +49,10 @@ print(f"Mr. {guests[3].title()}, {dinnermsg}")
 print(f"Mr. {guests[4].title()}, {dinnermsg}")
 print(f"Mr. {guests[5].title()}, {dinnermsg}")
 
-################################################################################
+print()  # blankline
+#==============================================================================#
 # 3.7 New Code
 
-print()
 print("Unfortunately, only two people will be able to attend dinner now.")
 
 print()
