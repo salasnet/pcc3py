@@ -4,5 +4,5 @@ print(min(digits))
 print(max(digits))
 print(sum(digits))
 
-# There is no Average, so you have to it the old fashioned way
+# There is no Average, so you have to do it the old fashioned way
 print(sum(digits)/len(digits))
