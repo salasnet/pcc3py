@@ -2,7 +2,10 @@
 
 Python Crash Course Code, .py edition
 
+### Python Crash Course Book and Syllabus
+
 [Syllabus (Private)](https://docs.google.com/document/d/1O04aqzOXdQWnlqm95aqMdEo-C5mnBPAt50wzcGPJZts)
+
 [Book (Private)](https://drive.google.com/file/d/1CigKz-ThaD1Wpi8vl9oagO_OkO97brVf/view)
 
 ### Python Crash Course
